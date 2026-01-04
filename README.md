@@ -1,8 +1,6 @@
 # Hi, I’m Ekansh 👋
 
-🔐 **Penetration Tester | Security Engineer**  
-5+ years in **Web, API, Cloud & Network Security**  
-Focused on real-world exploitation, automation, and secure-by-design practices.
+🔐 Security engineer focused on offensive security, automation, and real-world exploitation.
 
 ---
 
