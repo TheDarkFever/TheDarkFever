@@ -4,13 +4,13 @@
 
 ---
 
-## 🛡️ What I Do
-- Web & API Pentesting (OWASP Top 10, ASVS)
-- Business Logic & Authorization Testing (IDOR, Auth Bypass)
-- Cloud & Container Security (AKS, Kubernetes)
-- Security Automation (Bash, Python)
-- Risk-based reporting & remediation
-- PCI-DSS aligned assessments
+## 🔐 What I Do
+- 🛡️ Web & API Pentesting (OWASP Top 10, ASVS)
+- 🧬 Business Logic & Authorization Testing (IDOR, Auth Bypass)
+- ☁️ Cloud & Container Security (AKS, Kubernetes)
+- ⚙️ Security Automation (Bash, Python)
+- 📑 Risk-Based Reporting & Remediation
+- 📜 PCI-DSS Aligned Security Assessments
 
 ---
 
