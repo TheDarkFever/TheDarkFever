@@ -26,7 +26,7 @@
 ## 🏆 Highlights
 - Discovered DOM-based XSS in production (Hall of Fame confirmed)
 - Top 50 on TryHackMe (Dec 2020)
-- 5+ years delivering VAPT for enterprise & SaaS clients
+- 6 years delivering VAPT for enterprise & SaaS clients
 
 ---
 
