@@ -18,8 +18,8 @@
 - **Sub-Master** – Automated subdomain takeover detection  
   👉 https://github.com/TheDarkFever/Sub-Master
 
-- **Trivy JSON → CSV** – Bulk container image scanning & reporting  
-  👉 https://github.com/TheDarkFever/Trivy_json_2_csv
+- **TrivyStrike** –  A Bash-based security automation tool designed to scan container images across multiple Azure Kubernetes Service (AKS) clusters using Trivy.
+  👉 https://github.com/TheDarkFever/Trivystrike
 
 ---
 
