@@ -19,6 +19,7 @@
   👉 https://github.com/TheDarkFever/Sub-Master
 
 - **TrivyStrike** –  A Bash-based security automation tool designed to scan container images across multiple Azure Kubernetes Service (AKS) clusters using Trivy.
+
   👉 https://github.com/TheDarkFever/Trivystrike
 
 ---
