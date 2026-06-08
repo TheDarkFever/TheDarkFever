@@ -15,12 +15,17 @@
 ---
 
 ## 🚀 Featured Projects
-- **Sub-Master** – Automated subdomain takeover detection  
+- **Sub-Master** – Automated subdomain takeover detection
+  
   👉 https://github.com/TheDarkFever/Sub-Master
 
 - **TrivyStrike** –  A Bash-based security automation tool designed to scan container images across multiple Azure Kubernetes Service (AKS) clusters using Trivy.
 
   👉 https://github.com/TheDarkFever/Trivystrike
+
+- **Blogs @** - A write-up to initiate a debate over XSS and Modern Web Application.
+    
+  👉 https://medium.com/@ekanshchoudhary.96/is-xss-dead-in-modern-web-applications-9f9fce58b0f6
 
 ---
 
